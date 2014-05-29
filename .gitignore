@@ -1,3 +1,5 @@
 .idea/
 out/
 testy.iml
+contests.iml
+*.class
